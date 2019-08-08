@@ -71,12 +71,19 @@
 	#git log --author="sammas"
     #git log -p file
 
+#### show stats
+    #git log --stat
 
 #### Print out visualization of your log
     #git log --pretty=oneline --graph --decorate --all
 
 #### look at who and what changed in file
     #git blame file
+
+#### show pathces
+    #git log -p
+
+
 
 ***
 ### **Branches**
